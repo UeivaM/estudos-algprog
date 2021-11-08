@@ -1,6 +1,6 @@
-# Estudos sobre Algoritmo e Lógica de Programação Essencial
+# Repositório sobre estudos realizados no Bootcamp da Eduzz na DIO.
 
-Linguagem utilizada: C
+## Projeto Mudança de Carreira
 
+Repositório acerca do andamento do meu progresso no Projeto Mudança de Carreira.
 
-Projeto Mudança de Carreira
